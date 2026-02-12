@@ -1,6 +1,4 @@
-👋 Hi
-
-B Chiru Vaibhav | AI Systems Engineer
+👋 Hi, I am B Chiru Vaibhav or Vaibhav5012
 
 I build applied AI systems that combine machine learning, automation, and real-world deployment.
 My focus is not just training models — but integrating AI into usable tools, workflows, and decision systems.
