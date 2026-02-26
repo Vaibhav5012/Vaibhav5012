@@ -66,4 +66,3 @@ AI tool evaluation & integration
 
 GitHub: github.com/Vaibhav5012
 
-Open to remote AI engineering and automation roles.
