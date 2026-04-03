@@ -65,4 +65,5 @@ AI tool evaluation & integration
 📫 Contact
 
 GitHub: github.com/Vaibhav5012
-
+Linkedin: https://www.linkedin.com/in/bchiruvaibhav/
+Emial: bvaibhav1204@gmail.com
